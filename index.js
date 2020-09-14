@@ -42,6 +42,8 @@ function counterMaker() {
   }
 }
 
+
+
 const counter1 = counterMaker();
 
 // counter2 code
